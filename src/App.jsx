@@ -4,7 +4,7 @@ import Home from './assests/Home';
 function App() {
   return (
     <>
-    <Home />
+    <Home/>
     </>
   )
 }
